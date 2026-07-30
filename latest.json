@@ -3,30 +3,10 @@
   "release_url": "https://github.com/realjuemie/TG-Local-Releases/releases/tag/v0.4.7",
   "notes": "TG Local 完全免费。本版新增任务暂停/继续、通知栏后台下载和应用内安全更新，并修复登录返回与手机号修改。",
   "assets": {
-    "arm64-v8a": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.7/TG-Local-v0.4.7-arm64-v8a.apk",
-      "size": 35906833,
-      "sha256": "A99E536ACC81026CB6328AFAE81639A0CEAD170895530E20D444AB1BC6ADB5B6"
-    },
-    "armeabi-v7a": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.7/TG-Local-v0.4.7-armeabi-v7a.apk",
-      "size": 29354765,
-      "sha256": "C813D1166943BE676683A3BF6FF2EA4327932E86B59700A7C12B827B72B3B1A8"
-    },
-    "x86": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.7/TG-Local-v0.4.7-x86.apk",
-      "size": 40282733,
-      "sha256": "9002F16FBB283240A80FCE638E6C3BF20231B744C0FBE7F7DDD44D78D1092279"
-    },
-    "x86_64": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.7/TG-Local-v0.4.7-x86_64.apk",
-      "size": 38518507,
-      "sha256": "33023050C26F7DDB6225CBA2B6A22B8992FC57CBB8D385F354C434E438F213B3"
-    },
-    "universal": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.7/TG-Local-v0.4.7-universal.apk",
-      "size": 101564623,
-      "sha256": "C7403F41E610245A729CA3F9C4F04384A6B6F915B865D35A126C84D2F6FF7229"
-    }
+    "arm64-v8a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.7/TG-Local-v0.4.7-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.7/TG-Local-v0.4.7-armeabi-v7a.apk",
+    "x86": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.7/TG-Local-v0.4.7-x86.apk",
+    "x86_64": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.7/TG-Local-v0.4.7-x86_64.apk",
+    "universal": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.7/TG-Local-v0.4.7-universal.apk"
   }
 }
