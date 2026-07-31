@@ -1,39 +1,19 @@
 {
-  "version": "0.4.9",
-  "release_url": "https://github.com/realjuemie/TG-Local-Releases/releases/tag/v0.4.9",
-  "notes": "TG Local 完全免费。本版加速授权验证，媒体库按真实横竖比例完整显示封面，并增加下载速度说明。",
+  "version": "0.4.10",
+  "release_url": "https://github.com/realjuemie/TG-Local-Releases/releases/tag/v0.4.10",
+  "notes": "修复短暂切换后台后返回时授权检查长时间转圈的问题；恢复最近 15 分钟内的授权结果，并主动唤醒网络连接。TG Local 完全免费。",
   "assets": {
-    "arm64-v8a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.9/TG-Local-v0.4.9-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.9/TG-Local-v0.4.9-armeabi-v7a.apk",
-    "x86": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.9/TG-Local-v0.4.9-x86.apk",
-    "x86_64": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.9/TG-Local-v0.4.9-x86_64.apk",
-    "universal": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.9/TG-Local-v0.4.9-universal.apk"
+    "arm64-v8a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.10/TG-Local-v0.4.10-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.10/TG-Local-v0.4.10-armeabi-v7a.apk",
+    "x86": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.10/TG-Local-v0.4.10-x86.apk",
+    "x86_64": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.10/TG-Local-v0.4.10-x86_64.apk",
+    "universal": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.10/TG-Local-v0.4.10-universal.apk"
   },
   "assets_v2": {
-    "arm64-v8a": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.9/TG-Local-v0.4.9-arm64-v8a.apk",
-      "size": 35923217,
-      "sha256": "2D9829D7B23DD1AC749A60388CEE76E3E14F09D53DD715EA840B9F43B7D802D6"
-    },
-    "armeabi-v7a": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.9/TG-Local-v0.4.9-armeabi-v7a.apk",
-      "size": 29371149,
-      "sha256": "454DC5ED6826CA6BE6546BAA29D7A360A8DFE5633E13EFE0D41BA707C621B96E"
-    },
-    "x86": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.9/TG-Local-v0.4.9-x86.apk",
-      "size": 40299117,
-      "sha256": "4BE53DD96D4904C2B4C8849336A8957E320675702C63DBCB923DD175460AC776"
-    },
-    "x86_64": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.9/TG-Local-v0.4.9-x86_64.apk",
-      "size": 38534891,
-      "sha256": "237ECA4EB18F24A0F27FF6B7A30950CC96158E577C50C4762B3D626591D3D882"
-    },
-    "universal": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.9/TG-Local-v0.4.9-universal.apk",
-      "size": 101581007,
-      "sha256": "6D0C18E42B88D51000A50CA30EB8DA310055FA24D5983F458735F340617A1B0B"
-    }
+    "arm64-v8a": {"url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.10/TG-Local-v0.4.10-arm64-v8a.apk", "size": 35923253, "sha256": "C1615E7B5BF0EB77309188C8C4BF5EAE249C029EA811ED6E63751944BEFE21AE"},
+    "armeabi-v7a": {"url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.10/TG-Local-v0.4.10-armeabi-v7a.apk", "size": 29371185, "sha256": "7957E2D74F3674802C5E1DC8C30EBC9DAF95729C2B72A2D8CA2E9708C6EB6E34"},
+    "x86": {"url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.10/TG-Local-v0.4.10-x86.apk", "size": 40299153, "sha256": "8C2CC4A8B72669047C4FB94527BD88AE490465E4B5065C58AE3203BD99A2403E"},
+    "x86_64": {"url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.10/TG-Local-v0.4.10-x86_64.apk", "size": 38534927, "sha256": "0C0661C7899E930FA72D100B36C635E5FBBECFB0768EA7C7E1094259F060E8DF"},
+    "universal": {"url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v0.4.10/TG-Local-v0.4.10-universal.apk", "size": 101581043, "sha256": "F3E102ECEB8AEA941FACB4CD75EA409FCDB301CAD5F593EFF294CC785A9EB2A0"}
   }
 }
