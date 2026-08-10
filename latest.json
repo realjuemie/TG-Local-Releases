@@ -1,19 +1,39 @@
 {
-  "version": "1.0",
-  "release_url": "https://github.com/realjuemie/TG-Local-Releases/releases/tag/v1.0",
-  "notes": "重构页面 UI，看起来更年轻了呢~~\n修复已知 bug。\n如果还有别的反馈，请在授权群里提交。",
-  "assets": {
-    "arm64-v8a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v1.0/TG-Local-v1.0-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v1.0/TG-Local-v1.0-armeabi-v7a.apk",
-    "x86": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v1.0/TG-Local-v1.0-x86.apk",
-    "x86_64": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v1.0/TG-Local-v1.0-x86_64.apk",
-    "universal": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v1.0/TG-Local-v1.0-universal.apk"
-  },
-  "assets_v2": {
-    "arm64-v8a": {"url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v1.0/TG-Local-v1.0-arm64-v8a.apk", "size": 35923253, "sha256": "F046B0367024048F977C2BA0D5B87640F10B4EC8C03BBCF05CADA7299CF02911"},
-    "armeabi-v7a": {"url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v1.0/TG-Local-v1.0-armeabi-v7a.apk", "size": 29371185, "sha256": "26F876CB95D992ACC5352107233BF4D2B4A9D4C92DE4F4F6B12A715340BBEBFD"},
-    "x86": {"url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v1.0/TG-Local-v1.0-x86.apk", "size": 40299153, "sha256": "B67D733C2CE2264A457FEDF8FF6C108F4A360C21119A1809BE6C1B3B1ABE4708"},
-    "x86_64": {"url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v1.0/TG-Local-v1.0-x86_64.apk", "size": 38534927, "sha256": "CF9F51C63EB1FE797164E2AB1E53C3E7D7AD611275A9BAD4C9E2B76932D6D79F"},
-    "universal": {"url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v1.0/TG-Local-v1.0-universal.apk", "size": 101581043, "sha256": "3FDB9A7816777225541BE4F081A5886186AE6A24D3532B3F3E406463527F1BB0"}
-  }
+    "version":  "1.9.9",
+    "release_url":  "https://github.com/realjuemie/TG-Local-Releases/releases/tag/v1.9.9",
+    "notes":  "1.9.9 · 轻装上阵\nDock 四个入口新增 Telegram 风格圆角半透明选中层。\n普通卡片改为零高度阴影，顶部与主操作仅保留 1dp 轻微层次。\n任务与媒体空状态支持自适应高度，长文字完整显示。",
+    "assets":  {
+                   "arm64-v8a":  "https://github.com/realjuemie/TG-Local-Releases/releases/download/v1.9.9/TG-Local-1.9.9-arm64-v8a.apk",
+                   "armeabi-v7a":  "https://github.com/realjuemie/TG-Local-Releases/releases/download/v1.9.9/TG-Local-1.9.9-armeabi-v7a.apk",
+                   "x86":  "https://github.com/realjuemie/TG-Local-Releases/releases/download/v1.9.9/TG-Local-1.9.9-x86.apk",
+                   "x86_64":  "https://github.com/realjuemie/TG-Local-Releases/releases/download/v1.9.9/TG-Local-1.9.9-x86_64.apk",
+                   "universal":  "https://github.com/realjuemie/TG-Local-Releases/releases/download/v1.9.9/TG-Local-1.9.9-universal.apk"
+               },
+    "assets_v2":  {
+                      "arm64-v8a":  {
+                                        "url":  "https://github.com/realjuemie/TG-Local-Releases/releases/download/v1.9.9/TG-Local-1.9.9-arm64-v8a.apk",
+                                        "size":  35939605,
+                                        "sha256":  "39204110864E8BE03DFBE643E3EBD880BFB35655B6FADC3173037F3C5656A36F"
+                                    },
+                      "armeabi-v7a":  {
+                                          "url":  "https://github.com/realjuemie/TG-Local-Releases/releases/download/v1.9.9/TG-Local-1.9.9-armeabi-v7a.apk",
+                                          "size":  29387537,
+                                          "sha256":  "E1C44643C5071AC979E34453E26693BE1632A9D9AE3B34D6E74AA717A366BA5B"
+                                      },
+                      "x86":  {
+                                  "url":  "https://github.com/realjuemie/TG-Local-Releases/releases/download/v1.9.9/TG-Local-1.9.9-x86.apk",
+                                  "size":  40315505,
+                                  "sha256":  "C7B16D3E731D65F1FBB6D1332642FBB381605ABC03D16E9EBE3928BAEBE7D386"
+                              },
+                      "x86_64":  {
+                                     "url":  "https://github.com/realjuemie/TG-Local-Releases/releases/download/v1.9.9/TG-Local-1.9.9-x86_64.apk",
+                                     "size":  38551279,
+                                     "sha256":  "1AFB787833FF54B49026484BB07F17C8DEFE4CE878738736F0C4C2B17459E9C9"
+                                 },
+                      "universal":  {
+                                        "url":  "https://github.com/realjuemie/TG-Local-Releases/releases/download/v1.9.9/TG-Local-1.9.9-universal.apk",
+                                        "size":  101597395,
+                                        "sha256":  "9FD8B7C93DDDA97FE3AF48F162AB289DCA0A4158FB494068E26B3BC233E4F30A"
+                                    }
+                  }
 }
