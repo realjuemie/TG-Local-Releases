@@ -1,39 +1,39 @@
 {
-  "version": "2.0",
-  "release_url": "https://github.com/realjuemie/TG-Local-Releases/releases/tag/v2.0",
-  "notes": "TG Local 2.0 · 高级会员与受保护媒体优化\n\n- 高级会员标识改为金黄色，普通会员保持蓝色，明暗主题均清晰可辨。\n- 无权限点击群聊 / 机器人入口时，显示统一风格的高级会员说明。\n- 修复受保护群聊和机器人媒体分页中断：改用 TDLib 官方连续游标，支持持续读取历史媒体。\n- 保留播放缓存下载、缩略图缓存清理、回到顶部和多媒体筛选功能。",
+  "version": "2.0.1",
+  "release_url": "https://github.com/realjuemie/TG-Local-Releases/releases/tag/v2.0.1",
+  "notes": "TG Local 2.0.1 · 缓存清理与媒体库菜单优化\n\n- 设置中的“立即清理缓存”现在会直接删除全部缩略图缓存，不再受自动清理上限影响。\n- 媒体库右上角菜单移除打开文件夹功能，仅保留删除操作，避免误触和入口冗余。\n- 版本号升级至 2.0.1，保持现有群聊、机器人媒体预览与播放缓存能力。",
   "assets": {
-    "arm64-v8a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0/TG-Local-2.0-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0/TG-Local-2.0-armeabi-v7a.apk",
-    "x86": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0/TG-Local-2.0-x86.apk",
-    "x86_64": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0/TG-Local-2.0-x86_64.apk",
-    "universal": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0/TG-Local-2.0-universal.apk"
+    "arm64-v8a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.1/TG-Local-2.0.1-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.1/TG-Local-2.0.1-armeabi-v7a.apk",
+    "x86": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.1/TG-Local-2.0.1-x86.apk",
+    "x86_64": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.1/TG-Local-2.0.1-x86_64.apk",
+    "universal": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.1/TG-Local-2.0.1-universal.apk"
   },
   "assets_v2": {
     "arm64-v8a": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0/TG-Local-2.0-arm64-v8a.apk",
+      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.1/TG-Local-2.0.1-arm64-v8a.apk",
       "size": 36037909,
-      "sha256": "5EA1717F1FD9799C1F559BD1DE7E7C27DED983808D2BF6D3BD2F5571EC2BEA8C"
+      "sha256": "C0A07EE246FF7ABE9C41D6E30639197BED0F059D795EF18023572425FBB3DE54"
     },
     "armeabi-v7a": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0/TG-Local-2.0-armeabi-v7a.apk",
+      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.1/TG-Local-2.0.1-armeabi-v7a.apk",
       "size": 29485841,
-      "sha256": "662C3FB0BA7D1A2E90EE3CCE8C3E547159D73F87A32C742020B4E53756B8D81A"
+      "sha256": "7369BF09BE279B9E420595BE130C17CACA7D4D24B93766EA836983D4AA7ED251"
     },
     "x86": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0/TG-Local-2.0-x86.apk",
+      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.1/TG-Local-2.0.1-x86.apk",
       "size": 40413809,
-      "sha256": "85B2500D2D7C6F01A04A0F356E638C1615C7C8AB714A32DC9C040902C7ECD556"
+      "sha256": "C266175D83E4A686CBCEDEBECC029723956CD020C0DD8CD486ED958F64AC377B"
     },
     "x86_64": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0/TG-Local-2.0-x86_64.apk",
+      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.1/TG-Local-2.0.1-x86_64.apk",
       "size": 38649583,
-      "sha256": "FF153324EB185FC46478D8AD44AF62928EF0919D11868A3173AD4C1B76B8BFE3"
+      "sha256": "3C2ED991DC62DAE5406C7277A7711439280B2315AEF736A84097BE52AAA97B56"
     },
     "universal": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0/TG-Local-2.0-universal.apk",
+      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.1/TG-Local-2.0.1-universal.apk",
       "size": 101695699,
-      "sha256": "9DA409B7FD9D26B2305530192E51BA0193387D5F7DE52F85A4459ABA72506E71"
+      "sha256": "8F653D33BA50D4D9A5178B73672F241F0C4C68ECDD98024548CECD8FD70A6CC7"
     }
   }
 }
