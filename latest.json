@@ -1,39 +1,39 @@
 {
-  "version": "2.0.1",
-  "release_url": "https://github.com/realjuemie/TG-Local-Releases/releases/tag/v2.0.1",
-  "notes": "TG Local 2.0.1 · 缓存清理与媒体库菜单优化\n\n- 设置中的“立即清理缓存”现在会直接删除全部缩略图缓存，不再受自动清理上限影响。\n- 媒体库右上角菜单移除打开文件夹功能，仅保留删除操作，避免误触和入口冗余。\n- 版本号升级至 2.0.1，保持现有群聊、机器人媒体预览与播放缓存能力。",
+  "version": "2.0.2",
+  "release_url": "https://github.com/realjuemie/TG-Local-Releases/releases/tag/v2.0.2",
+  "notes": "TG Local 2.0.2 · 媒体库批量管理与首页细节优化\n\n- 移除首页下载来源区域中多余的会员提示文字。\n- 任务页没有任务时，底部说明文字改为居中排版。\n- 媒体库新增批量删除模式，支持多选、全选当前筛选结果并一次删除多个媒体。\n- 版本号升级至 2.0.2。",
   "assets": {
-    "arm64-v8a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.1/TG-Local-2.0.1-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.1/TG-Local-2.0.1-armeabi-v7a.apk",
-    "x86": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.1/TG-Local-2.0.1-x86.apk",
-    "x86_64": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.1/TG-Local-2.0.1-x86_64.apk",
-    "universal": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.1/TG-Local-2.0.1-universal.apk"
+    "arm64-v8a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.2/TG-Local-2.0.2-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.2/TG-Local-2.0.2-armeabi-v7a.apk",
+    "x86": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.2/TG-Local-2.0.2-x86.apk",
+    "x86_64": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.2/TG-Local-2.0.2-x86_64.apk",
+    "universal": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.2/TG-Local-2.0.2-universal.apk"
   },
   "assets_v2": {
     "arm64-v8a": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.1/TG-Local-2.0.1-arm64-v8a.apk",
-      "size": 36037909,
-      "sha256": "C0A07EE246FF7ABE9C41D6E30639197BED0F059D795EF18023572425FBB3DE54"
+      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.2/TG-Local-2.0.2-arm64-v8a.apk",
+      "size": 36054293,
+      "sha256": "ADD82B06563886DB1A4F45031E37F04D9A89F8A474046F2BB29E5EC56D4B8ABF"
     },
     "armeabi-v7a": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.1/TG-Local-2.0.1-armeabi-v7a.apk",
-      "size": 29485841,
-      "sha256": "7369BF09BE279B9E420595BE130C17CACA7D4D24B93766EA836983D4AA7ED251"
+      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.2/TG-Local-2.0.2-armeabi-v7a.apk",
+      "size": 29502225,
+      "sha256": "019FAE65191A0E74874832D9BFEBD0D5252AE920EB2A683E8FD492932C8FA9BC"
     },
     "x86": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.1/TG-Local-2.0.1-x86.apk",
-      "size": 40413809,
-      "sha256": "C266175D83E4A686CBCEDEBECC029723956CD020C0DD8CD486ED958F64AC377B"
+      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.2/TG-Local-2.0.2-x86.apk",
+      "size": 40430193,
+      "sha256": "23F118BFCE87EC22B55D9191707BE54BE3F7CD1C829A1C1432F65D856917C410"
     },
     "x86_64": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.1/TG-Local-2.0.1-x86_64.apk",
-      "size": 38649583,
-      "sha256": "3C2ED991DC62DAE5406C7277A7711439280B2315AEF736A84097BE52AAA97B56"
+      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.2/TG-Local-2.0.2-x86_64.apk",
+      "size": 38665967,
+      "sha256": "C1738FFB302B11AA78DFFE2EC08FAF41E0AAF42F927A50A172E301F084CE162C"
     },
     "universal": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.1/TG-Local-2.0.1-universal.apk",
-      "size": 101695699,
-      "sha256": "8F653D33BA50D4D9A5178B73672F241F0C4C68ECDD98024548CECD8FD70A6CC7"
+      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.2/TG-Local-2.0.2-universal.apk",
+      "size": 101712083,
+      "sha256": "38E6E2AE1F49969E2DB40BAF340967406005363798600511C879C6AFCA4D3CE3"
     }
   }
 }
