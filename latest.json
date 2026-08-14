@@ -1,39 +1,39 @@
 {
-  "version": "2.0.3",
-  "release_url": "https://github.com/realjuemie/TG-Local-Releases/releases/tag/v2.0.3",
-  "notes": "TG Local 2.0.3 · 媒体库批量删除入口优化\n\n- 媒体库批量删除改为右下角圆形多选入口，不再独占一行。\n- 多选模式在 Dock 上方显示悬浮操作胶囊，集中提供已选数量、全选、删除和退出。\n- 自动预留底部空间，避免遮挡最后一行媒体；明暗主题自动适配。\n- 版本号升级至 2.0.3。",
+  "version": "2.1.0",
+  "release_url": "https://github.com/realjuemie/TG-Local-Releases/releases/tag/v2.1.0",
+  "notes": "TG Local 2.1.0 · 群聊、频道和机器人头像支持\n\n- 聊天列表显示对应 Telegram 头像，先展示微缩预览，再后台缓存清晰头像。\n- 进入媒体页面后，顶部标题同步显示当前聊天头像。\n- 无头像或加载失败时按聊天类型显示主题图标。\n- 保持现有授权验证、受保护媒体缓存下载和缩略图自动清理逻辑。",
   "assets": {
-    "arm64-v8a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.3/TG-Local-2.0.3-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.3/TG-Local-2.0.3-armeabi-v7a.apk",
-    "x86": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.3/TG-Local-2.0.3-x86.apk",
-    "x86_64": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.3/TG-Local-2.0.3-x86_64.apk",
-    "universal": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.3/TG-Local-2.0.3-universal.apk"
+    "arm64-v8a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.0/TG-Local-2.1.0-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.0/TG-Local-2.1.0-armeabi-v7a.apk",
+    "x86": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.0/TG-Local-2.1.0-x86.apk",
+    "x86_64": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.0/TG-Local-2.1.0-x86_64.apk",
+    "universal": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.0/TG-Local-2.1.0-universal.apk"
   },
   "assets_v2": {
     "arm64-v8a": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.3/TG-Local-2.0.3-arm64-v8a.apk",
-      "size": 36054293,
-      "sha256": "E1F2642BC47470943DD5AFB8A9B9636F10F19D18D788FF8C2EECB45B656D4D37"
+      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.0/TG-Local-2.1.0-arm64-v8a.apk",
+      "size": 36103445,
+      "sha256": "0287274040C17B2CB70CB98204BBB47B89CAD5D32DD1768495531B5454473035"
     },
     "armeabi-v7a": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.3/TG-Local-2.0.3-armeabi-v7a.apk",
-      "size": 29502225,
-      "sha256": "CADB83364733D9A616272C846DDEDD8CCA82C388640413F7F5BF740C6A6A5103"
+      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.0/TG-Local-2.1.0-armeabi-v7a.apk",
+      "size": 29551377,
+      "sha256": "96D937F783E16C0D2EE4B3375B1D6B99539BE2596C1EEF3B42F1060BCA22B490"
     },
     "x86": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.3/TG-Local-2.0.3-x86.apk",
-      "size": 40430193,
-      "sha256": "40171618CC31CC3B102714D7BE34BEE25439A2E9EAC4C8D14F5CE7E6C772456F"
+      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.0/TG-Local-2.1.0-x86.apk",
+      "size": 40479345,
+      "sha256": "71DD4BC3547FD66E22D11EAC6809E1A4D9CAB4964919199E538427CB25D687A1"
     },
     "x86_64": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.3/TG-Local-2.0.3-x86_64.apk",
-      "size": 38665967,
-      "sha256": "64B0E5B54D20512A47AE8FD7CE4D768ACC719CD8CB668B5F8A62B69D371C2EE8"
+      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.0/TG-Local-2.1.0-x86_64.apk",
+      "size": 38715119,
+      "sha256": "1D83F7D96CBD9E4CB163391229125E93E5A275F0F23C959479344BF36059BCBD"
     },
     "universal": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.0.3/TG-Local-2.0.3-universal.apk",
-      "size": 101712083,
-      "sha256": "E088CFB6BF1C3F94D958EB2EC228DC7092644FE4CB2C56330FEF920400BCCE8F"
+      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.0/TG-Local-2.1.0-universal.apk",
+      "size": 101761235,
+      "sha256": "0178545D88C1CBEDF24BA343326C1D5EF63049AC5797C632105E8FAABF3C03AA"
     }
   }
 }
