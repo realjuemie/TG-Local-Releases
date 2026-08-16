@@ -1,39 +1,39 @@
 {
-  "version": "2.1.0",
-  "release_url": "https://github.com/realjuemie/TG-Local-Releases/releases/tag/v2.1.0",
-  "notes": "TG Local 2.1.0 · 群聊、频道和机器人头像支持\n\n- 聊天列表显示对应 Telegram 头像，先展示微缩预览，再后台缓存清晰头像。\n- 进入媒体页面后，顶部标题同步显示当前聊天头像。\n- 无头像或加载失败时按聊天类型显示主题图标。\n- 保持现有授权验证、受保护媒体缓存下载和缩略图自动清理逻辑。",
+  "version": "2.1.1",
+  "release_url": "https://github.com/realjuemie/TG-Local-Releases/releases/tag/v2.1.1",
+  "notes": "TG Local 2.1.1 · 后台下载与媒体页体验修复\n\n- 群聊 / 机器人媒体加入下载后继续停留在当前媒体页面，已选择项目会自动清空。\n- 后台下载通知明确显示已在后台开始下载，并持续更新进度。\n- 修复媒体库批量选择悬浮框进入时的阴影闪烁。\n- 保持原有 Release 签名，可直接覆盖安装。",
   "assets": {
-    "arm64-v8a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.0/TG-Local-2.1.0-arm64-v8a.apk",
-    "armeabi-v7a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.0/TG-Local-2.1.0-armeabi-v7a.apk",
-    "x86": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.0/TG-Local-2.1.0-x86.apk",
-    "x86_64": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.0/TG-Local-2.1.0-x86_64.apk",
-    "universal": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.0/TG-Local-2.1.0-universal.apk"
+    "arm64-v8a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.1/TG-Local-2.1.1-arm64-v8a.apk",
+    "armeabi-v7a": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.1/TG-Local-2.1.1-armeabi-v7a.apk",
+    "x86": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.1/TG-Local-2.1.1-x86.apk",
+    "x86_64": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.1/TG-Local-2.1.1-x86_64.apk",
+    "universal": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.1/TG-Local-2.1.1-universal.apk"
   },
   "assets_v2": {
     "arm64-v8a": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.0/TG-Local-2.1.0-arm64-v8a.apk",
+      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.1/TG-Local-2.1.1-arm64-v8a.apk",
       "size": 36103445,
-      "sha256": "0287274040C17B2CB70CB98204BBB47B89CAD5D32DD1768495531B5454473035"
+      "sha256": "E35D0BDB854CA2EC1EAC8AE34B039C077DE680EB39907D06177E75907DB437C9"
     },
     "armeabi-v7a": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.0/TG-Local-2.1.0-armeabi-v7a.apk",
+      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.1/TG-Local-2.1.1-armeabi-v7a.apk",
       "size": 29551377,
-      "sha256": "96D937F783E16C0D2EE4B3375B1D6B99539BE2596C1EEF3B42F1060BCA22B490"
+      "sha256": "D97BF8E4D3580033EAC60600670DDD4D790FECC32584AE59788F8A0E135B4049"
     },
     "x86": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.0/TG-Local-2.1.0-x86.apk",
+      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.1/TG-Local-2.1.1-x86.apk",
       "size": 40479345,
-      "sha256": "71DD4BC3547FD66E22D11EAC6809E1A4D9CAB4964919199E538427CB25D687A1"
+      "sha256": "9BC6D775FCBEB8A825B242820FEF808C272F4165FB21182B777B2232D76834C7"
     },
     "x86_64": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.0/TG-Local-2.1.0-x86_64.apk",
+      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.1/TG-Local-2.1.1-x86_64.apk",
       "size": 38715119,
-      "sha256": "1D83F7D96CBD9E4CB163391229125E93E5A275F0F23C959479344BF36059BCBD"
+      "sha256": "9A06AD68E45FB185C834667CE8FCF9C85F05CFE703489BACEA80D043454F76A3"
     },
     "universal": {
-      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.0/TG-Local-2.1.0-universal.apk",
+      "url": "https://github.com/realjuemie/TG-Local-Releases/releases/download/v2.1.1/TG-Local-2.1.1-universal.apk",
       "size": 101761235,
-      "sha256": "0178545D88C1CBEDF24BA343326C1D5EF63049AC5797C632105E8FAABF3C03AA"
+      "sha256": "A833BF63BA96F3E50D1CA710BDF3C9AA5BF3362D62D96E6367B38FD8D764129D"
     }
   }
 }
